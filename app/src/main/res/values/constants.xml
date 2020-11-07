@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="storage_link">gs://socialcomponents.appspot.com</string>
+    <string name="storage_link">https://recycleapp-cefd0.firebaseio.com/</string>
     <string name="google_web_client_id">523258664311-26aepbp81l7ukpt0saui7ij37d1l7a15.apps.googleusercontent.com</string>
     <string name="facebook_app_id">415080662213842</string>
     <string name="facebook_large_image_url_pattern">https://graph.facebook.com/%1$s/picture?type=large</string>
